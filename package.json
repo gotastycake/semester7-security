@@ -1,0 +1,20 @@
+{
+  "name": "security_labs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gotastycake/semester7-security.git"
+  },
+  "author": "Oleksii Biriuchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gotastycake/semester7-security/issues"
+  },
+  "homepage": "https://github.com/gotastycake/semester7-security#readme"
+}
